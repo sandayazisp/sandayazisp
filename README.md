@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandayazisp&label=Profile%20views&color=0e75b6&style=flat" alt="sandayazisp" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS, NextJS, Tailwind**
+- 🌱 I’m currently learning **ReactJS, NextJS, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-me-lac.vercel.app/](https://portfolio-me-lac.vercel.app/)
 
